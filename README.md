@@ -127,7 +127,7 @@ Descrição   | Instituição   | Ano | Tipo
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/ClubeMobile">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ClubeMobile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClubeMobile&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/alexsandrofagundes">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexsandrofagundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrofagundes&layout=compact&langs_count=7&theme=dark"/>
 </div>
