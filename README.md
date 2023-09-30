@@ -4,7 +4,6 @@
 <div>
   <p>
     Sou Desenvolvedor já faz algum tempinho kkkkk
-    Apelidos que já tive em algumas empresas que já passei, foram: M@lex, Fofinho, Homem triste!, Alequeca, Alecão
   </p>	  
   <p>	
   	Apaixonado por tecnologia, com experiência em desenvolvimento com plataformas Web e Desktop, utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, 
