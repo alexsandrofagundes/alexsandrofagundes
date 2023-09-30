@@ -20,6 +20,18 @@
   <p>	
 	  * Trabalhei em Clientes TOTVS, onde efetuada a supervisão das Consultorias <a href="https://camaraleal.com.br/">Camara Leal</a> e <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a> , que prestavam serviços ao Cliente SND! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
   </p>
+  <p>	
+	  * Trabalhei na própria TOTVS em 3 momentos:
+  </p>	
+  <p>	
+	  	* INOVAÇÃO - Módulos FOLHA DE FAGAMENTO - Localizações
+  </p>	
+  <p>	
+	  	* SUSTENTAÇÃO - Módulos FOLHA DE FAGAMENTO - Localizações
+  </p>	
+  <p>	
+	  	* SQUAD FISCAL
+  </p>	
   <p>	  
 	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  
   </p>	
