@@ -12,7 +12,7 @@
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
   <p>	
-	  <a href="https://www.totvs.com" target="_blank"><img height="30" width="70" src="https://www.totvs.com/wp-content/uploads/2019/09/logo.png" target="_blank"></a>
+	  <a href="https://www.totvs.com" target="_blank"><img height="30" width="90" src="https://www.totvs.com/wp-content/uploads/2019/09/logo.png" target="_blank"></a>
   </p>
   <p>	
 	  * No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
