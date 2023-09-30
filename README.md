@@ -18,8 +18,12 @@
 	  * No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
   </p>
   <p>	
-	  * Trabalhei em Clientes TOTVS, onde efetuada a supervisão das Consultorias <a href="https://camaraleal.com.br/">Camara Leal</a> e <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a> , que prestavam serviços ao Cliente SND! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
+	  * Trabalhei no Clientes TOTVS, SND, onde efetuada a supervisão das Consultorias <a href="https://camaraleal.com.br/">Camara Leal</a> e <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a> , que prestavam serviços ao Cliente SND! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
   </p>
+  <p>	
+	  * Trabalhei no Clientes TOTVS, PANELAS ALEGRETTE, onde efetuada toda a Manutenção e controles referentes ao ERP TOTVS.
+  </p>
+	
   <p>	
 	  * Trabalhei na própria TOTVS em 3 momentos:
   </p>	
