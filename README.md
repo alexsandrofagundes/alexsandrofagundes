@@ -39,7 +39,7 @@
 	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  
   </p>	
   <p>	  
-  	* Fui implantador de Sistemas, apresentando o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
+  	* Fiz implantações de Sistemas / Treinamentos de Módulos, do o sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
   </p>	
   <p>	  
  	* Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
