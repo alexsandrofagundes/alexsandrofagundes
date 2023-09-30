@@ -18,7 +18,7 @@
 	  * No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
   </p>
   <p>	
-	  * Trabalhei em Clientes TOTVS, onde efetuada a supervisão das Consultorias ( <p> Camara Leal <a href="https://www.freecodecamp.org/">Camara Leal</a>.</p> , <p> TOTVS Nações Unidas <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a>.</p>  ) que prestavam serviços ao Cliente! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
+	  * Trabalhei em Clientes TOTVS, onde efetuada a supervisão das Consultorias <a href="https://www.freecodecamp.org/">Camara Leal</a>. e <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a> , que prestavam serviços ao Cliente SND! Aplicando Patchs e Customizações em Ambientes DEV / HLM e PROD
   </p>
   <p>	  
 	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  
