@@ -1,4 +1,4 @@
-### Opa, aqui é o Alex, Programador | Coordenador | Lider técnico ! Faço café, pipoca e miojo 👋
+### Opa, aqui é o Alex, Programador | Coordenador | Lider técnico ! Faço pipoca e miojo 👋
 
 ## 🧑🏽‍💻 Um pouco sobre a minha pessoa:
 <div>
