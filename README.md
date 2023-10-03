@@ -96,6 +96,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+🏅 Jornada Python da Hash | Hash Treinamentos | 2023 | Certificado Participação
 🏅 Imersão Dados IA: Análises com Inteligência Artificial | Alura | 2023 | Certificado Participação
 🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2018 | Certificação 
 🏅 Negotiation Associate - NCN-A™ | SCRUMstudy | 2018 | Certificação
