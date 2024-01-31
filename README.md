@@ -60,7 +60,11 @@
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
   <p>
-    * Participando da Jornada Python  
+    * Participando do Intensivão de JavaScript  
+	  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  </p>	
+  <p>
+    * Participei da Jornada Python  
 	  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   </p>
   <p>
@@ -96,6 +100,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+🏅 Intensivão de JavaScript | Hash Treinamentos | 2024 | Certificado Participação
 🏅 Jornada Python da Hash | Hash Treinamentos | 2023 | Certificado Participação
 🏅 Imersão Dados IA: Análises com Inteligência Artificial | Alura | 2023 | Certificado Participação
 🏅 Scrum Fundamentals Certified - SFC™ | SCRUMstudy | 2018 | Certificação 
