@@ -60,7 +60,7 @@
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
   <p>
-    * Participando do Intensivão de JavaScript  
+    * Participei do Intensivão de JavaScript  
 	  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </p>	
   <p>
@@ -71,10 +71,6 @@
     * Fazendo o curso sobre Full-Stack com .NET Web API e Angular + EF Core
 	  <img align="center" alt="EF Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 	  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  </p>
-  <p>
-    * Próximo curso: VueJS
-	  <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
   </p>
 </div>
 
