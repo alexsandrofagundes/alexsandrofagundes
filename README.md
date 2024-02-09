@@ -1,4 +1,6 @@
-### Opa, aqui é o Alex, Programador | Coordenador | Lider técnico !
+ 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pa,%F0%9F%91%8B;aqui+é+o+Alex,+Programador+|+Coordenador+|+Lider+técnico+!)](https://github.com/alexsandrofagundes)
 
 ## 🧑🏽‍💻 Um pouco sobre a minha pessoa:
 <div>
@@ -88,3 +90,11 @@ Descrição   | Instituição   | Ano | Tipo
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexsandrofagundes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrofagundes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsandrofagundes/alexsandrofagundes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexsandrofagundes/alexsandrofagundes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alexsandrofagundes/alexsandrofagundes/output/github-contribution-grid-snake-dark.svg">
+  
+</picture>
