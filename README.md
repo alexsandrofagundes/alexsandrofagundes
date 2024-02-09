@@ -10,48 +10,6 @@
     modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
-  <p>	
-	  <a href="https://www.totvs.com" target="_blank"><img height="30" width="90" src="https://www.totvs.com/wp-content/uploads/2019/09/logo.png" target="_blank"></a>
-  </p>
-  <p>	
-	  * No mundo ERP, conhecimento em ADVPL,ADVPR e Web-Services (TOTVS)
-  </p>
-  <p>	
-	  * Trabalhei no Cliente TOTVS,  <a href="https://www.snd.com.br/">SND</a>, onde efetuava a supervisão das Consultorias <a href="https://camaraleal.com.br/">Camara Leal</a> e <a href="https://www.facebook.com/totvstnu/?locale=pt_BR">TOTVS Nações Unidas</a> , que prestavam serviços ao Cliente SND! Aplicando Patchs e Customizações em Ambientes DEV / HML e PROD
-  </p>
-  <p>	
-	  * Trabalhei no Cliente TOTVS, <a href="https://aluminioalegrete.com.br/">Alumínio Alegrete</a>, onde efetuada todo o Gerenciamento das manutenções e controles referentes ao ERP TOTVS.
-  </p>
-  <p>	
-	  * Trabalhei na própria TOTVS em 3 momentos:
-  </p>	
-  <p>	
-	  	        * INOVAÇÃO - Módulos FOLHA DE FAGAMENTO - Localizações
-	  	  	* SUSTENTAÇÃO - Módulos FOLHA DE FAGAMENTO - Localizações
-	                * SQUAD FISCAL
-  </p>	
-  <p>	  
-	<a href="https://www.prosoft.com.br" target="_blank"><img height="30" width="70" src="https://www.prosoft.com.br/wp-content/uploads/2021/07/logo_prosoft_by_alterdata_azul.png" target="_blank"></a>	  
-  </p>	
-  <p>	  
-  	* Fiz implantações de Sistemas / Treinamentos de Módulos, do sistema Prosoft para muitos dos Clientes Contábeis da Grande SP
-  </p>	
-  <p>	  
- 	* Ministrei treinamentos para Equipes, sobre funcionalidades de sistemas
-  </p>
-  <p>	  
- 	* Migrei de Suporte ao Cliente para área de Desenvolvimento
-  </p>
-  <p>	  
- 	* Migrei de nível até Sênior
-  </p>
-  <p>	  
- 	* Participei da 'Escola de Líderes'
-  </p>
-  <p>	  
- 	* Curiosidade: Na Prosoft fiquei + de 15 anos!
-  </p>	
-</div>
 
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
