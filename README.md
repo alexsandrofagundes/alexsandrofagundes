@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++pa,%F0%9F%91%8B;aqui+é+o+Alex,+Programador+|+Coordenador+|+Lider+técnico+!)](https://github.com/alexsandrofagundes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++povo!,%F0%9F%91%8B;Aqui+é+o+Alex,+Programador+|+Coordenador+|+Lider+técnico+!)](https://github.com/alexsandrofagundes)
 
 ## 🧑🏽‍💻 Um pouco sobre a minha pessoa:
 <div>
