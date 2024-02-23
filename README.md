@@ -12,6 +12,15 @@
     modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
+  <p>
+	  Atualmente trabalho na EVT:
+	  <a href="https://evtit.com/" target="_blank">Visitar EVTIt.com</a>
+  </p>
+  
+  <p>
+	  Prestando serviços para a Porto Seguro:
+	  <a href="https://www.portoseguro.com.br/" target="_blank">Visitar Porto Seguro</a>
+  </p>
 
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
