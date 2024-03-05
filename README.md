@@ -14,7 +14,7 @@
   </p>	  
   <p>
 	  Atualmente trabalho na EVT:
-	  <a href="https://evtit.com/" target="_blank">Visitar EVTIt.com</a>
+	  <a href="https://evtit.com/" target="_blank">Visitar EVT IT</a>
   </p>
   
   <p>
