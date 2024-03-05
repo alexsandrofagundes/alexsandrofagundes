@@ -90,8 +90,6 @@ Descrição   | Instituição   | Ano | Tipo
   <a href="https://chrome.google.com/webstore/detail/chatgpt-para-pesquisa-no/dpbmphcflghiapioekmahdeleeikmgjp?hl=pt-BR" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/alexfagundes/alexfagundes/blob/output/github-contribution-grid-snake.svg)
-
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">
