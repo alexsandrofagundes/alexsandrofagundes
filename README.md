@@ -61,6 +61,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+🏅 Introdução ao Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos-2736/KL5TR7CB?sharingId=A8F37815A1ACF845
 🏅 Criar soluções de linguagem natural com o Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos-2736/7PEM3P7Z?sharingId=A8F37815A1ACF845
 🏅 Intensivão de JavaScript | Hash Treinamentos | 2024 | Certificado Participação
 🏅 Jornada Python da Hash | Hash Treinamentos | 2023 | Certificado Participação
