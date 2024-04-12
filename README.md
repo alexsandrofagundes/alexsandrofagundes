@@ -61,6 +61,7 @@
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
+🏅 O que estou estudando! | Learn Microsoft | 2024 | https://learn.microsoft.com/pt-br/users/alexsandrofagundes/
 🏅 Introdução ao Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos/KL5TR7CB?sharingId=A8F37815A1ACF845
 🏅 Criar soluções de linguagem natural com o Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos/7PEM3P7Z?sharingId=A8F37815A1ACF845
 🏅 Intensivão de JavaScript | Hash Treinamentos | 2024 | Certificado Participação
