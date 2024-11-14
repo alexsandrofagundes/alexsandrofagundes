@@ -12,15 +12,14 @@
     modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
+
+<a href="https://app.rocketseat.com.br/me/alexfagundes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexfagundes&type=card" width="280" alt="alexfagundes's Rocket ID"/></a>
+ 
   <p>
-	  Atualmente trabalho na EVT:
-	  <a href="https://evtit.com/" target="_blank">Visitar EVT IT</a>
-  </p>
-  
-  <p>
-	  Prestando serviços para a Porto Seguro:
+	  Atualmente trabalho na Porto Seguro:
 	  <a href="https://www.portoseguro.com.br/" target="_blank">Visitar Porto Seguro</a>
   </p>
+
 
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
