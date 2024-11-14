@@ -13,7 +13,6 @@
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
 
-<a href="https://app.rocketseat.com.br/me/alexfagundes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexfagundes&type=card" width="280" alt="alexfagundes's Rocket ID"/></a>
  
   <p>
 	  Atualmente trabalho na Porto Seguro:
@@ -23,6 +22,9 @@
 
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
+
+	<a href="https://app.rocketseat.com.br/me/alexfagundes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexfagundes&type=card" width="280" alt="alexfagundes's Rocket ID"/></a>
+
   <p>
     * Participei do Intensivão de JavaScript  
 	  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
