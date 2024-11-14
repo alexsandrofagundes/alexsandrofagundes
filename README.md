@@ -23,7 +23,7 @@
 ## 🧑🏽‍💻 Estudando atualmente:
 <div>
 
-	<a href="https://app.rocketseat.com.br/me/alexfagundes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexfagundes&type=card" width="280" alt="alexfagundes's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/alexfagundes"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexfagundes&type=card" width="280" alt="alexfagundes's Rocket ID"/></a>
 
   <p>
     * Participei do Intensivão de JavaScript  
