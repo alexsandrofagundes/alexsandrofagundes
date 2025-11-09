@@ -9,7 +9,7 @@
   </p>	  
   <p>	
   	Apaixonado por tecnologia, com experiência em desenvolvimento com plataformas Web, Desktop e Mobile, utilizando as tecnologias atuais do mercado para construção de sistemas  responsivos, 
-    modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript,NodeJS), 
+    modernos e adaptáveis (Conhecimentos em: C#, VB.NET, EntityFramework, DDD, ASP.NET MVC, jQuery, Bootstrap, HTML5, CSS3, JavaScript, NodeJS), 
     possuindo também experiência na construção de aplicações de Automação de Processos, RPA (Robotic Process Automation).
   </p>	  
 
