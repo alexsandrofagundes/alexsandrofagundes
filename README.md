@@ -64,8 +64,7 @@ Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
 🏅 Estudando! | Curso Santander 2º Semestre | 11/2025 | https://app.santanderopenacademy.com/pt-BR/application/share-granted/santander-bootcamp-2025-2-sem?program=Curso%20Santander%20%7C%20Santander%20Bootcamp%202025:%202%C2%B0%20Semestre&id=688bab7388ef7582602ded50&doc=f4eojijmh6nxgng&sharedId=68fd227bd386ae912dd22c3a 
 🏅 IDESP | Web Application Security | 2025 | https://idesp.online.engaged.com.br/certificates/0e437a81-41a5-482c-9bdd-4a302ecb27dc 
-🏅 Estudando! | API Security Fundamentals | 2024 | 
-🏅 Estudando! | Learn Microsoft | 2024 | https://learn.microsoft.com/pt-br/users/alexsandrofagundes/
+🏅 Microsoft | Learn Microsoft | 2024 | https://learn.microsoft.com/pt-br/users/alexsandrofagundes/
 🏅 Introdução ao Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos/KL5TR7CB?sharingId=A8F37815A1ACF845
 🏅 Criar soluções de linguagem natural com o Serviço OpenAI do Azure | Learn Microsoft | 2024 | https://learn.microsoft.com/api/achievements/share/pt-br/AlexSandroFagundesdosSantos/7PEM3P7Z?sharingId=A8F37815A1ACF845
 🏅 Intensivão de JavaScript | Hash Treinamentos | 2024 | Certificado Participação
