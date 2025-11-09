@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ol%C3%A1++povo!,%F0%9F%91%8B;Aqui+é+o+Alex,+Programador+|+Coordenador+|+Lider+técnico+!)](https://github.com/alexsandrofagundes)
 
-## 🧑🏽‍💻 Um pouco sobre a mim:
+## 🧑🏽‍💻 Um pouco sobre a minha trajetória:
 <div>
   <p>
     Sou Desenvolvedor, já ministrei treinamentos e coordenei equipes! 
